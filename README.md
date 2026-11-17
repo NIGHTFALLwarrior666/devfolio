@@ -40,3 +40,7 @@ Submit the URL of the open **DevFolio submission** pull request, not the GitHub 
 - [x] Real content and contact links
 - [x] Public GitHub repository and live Vercel URL
 - [ ] GitHub Pages published and confirmed after enabling Pages
+
+## Submission notes
+
+The portfolio is provided as a self-contained, mobile-friendly `index.html` for simple hosting. The public preview is available through the Vercel link above; enable GitHub Pages from the `main` branch before final grading.
